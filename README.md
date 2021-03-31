@@ -26,7 +26,7 @@
 
 my_website - User login and register system
 
-   Copyright 2019- www.liujiangblog.com
+   Copyright 2021- www.yueminghai.top
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
